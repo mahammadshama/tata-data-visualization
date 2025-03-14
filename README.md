@@ -14,7 +14,7 @@ Developed 8 key business questions (4 for the CEO and 4 for the CMO) to help the
 
 The questions focused on sales trends, customer behavior, product performance, and marketing effectiveness.
 
-[view the questions](TASK 1 - TATA/Task1_questions_pdf.pdf)
+[view the questions](tata-data-visualization/TASK 1 - TATA/Task1_questions_pdf.pdf)
 
 
 ### Task 2: Multiple-Choice Quiz
